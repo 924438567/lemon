@@ -10,4 +10,9 @@ public class LemonApplication {
 		SpringApplication.run(LemonApplication.class, args);
 	}
 
+
+	public void test(){
+		System.out.println("111111");
+	}
+
 }
