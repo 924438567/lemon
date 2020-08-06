@@ -7,6 +7,6 @@ package com.hooy.lemon;
 public class Tetttt {
 
     public static void main(String[] args) {
-        System.out.println("æææææææ");
+        System.out.println("ææææææ1111");
     }
 }
